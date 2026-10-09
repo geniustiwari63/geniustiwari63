@@ -1,16 +1,72 @@
-## Hi there 👋
 
-<!--
-**geniustiwari63/geniustiwari63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Genius Tiwari</h1>
+<h3 align="center">BIT Student | Web Development Enthusiast from Nepal 🇳🇵</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/geniustiwari63">
+    <img src="https://komarev.com/ghpvc/?username=geniustiwari63&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I'm pursuing a **Bachelor of Information Technology (BIT)** at Informatics College Pokhara.
+- 💻 I enjoy building web applications and learning new technologies.
+- 🌱 Currently learning and working with **Next.js, TypeScript, Node.js, and Express.js**.
+- 🗄️ Interested in backend development, REST APIs, and database design.
+- 🚀 Working on e-commerce applications and full-stack web projects.
+- 📍 Based in Nepal.
+- 🌐 Portfolio: [geniustiwari.com.np](https://geniustiwari.com.np)
+- 📫 Reach me at: **genius.tiwari10@gmail.com**
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,prisma,git,github,vscode" alt="Technologies and tools" />
+</p>
+
+---
+
+### 🚀 Projects
+
+- 🛒 **Multi-Vendor E-Commerce Platform** — A planned marketplace project focused on customers, vendors, products, orders, and administration.
+- 🌐 **Personal Portfolio** — A portfolio website built with Next.js to showcase my work and learning journey.
+- 🛍️ **E-Commerce Web Application** — A web application exploring frontend, backend API integration, authentication, and product management.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geniustiwari63&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniustiwari63&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/geniustiwari63">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:genius.tiwari10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://geniustiwari.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>Learning, building, and improving one project at a time.</i>
+</p>
