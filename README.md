@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/geniustiwari63">
-    <img src="https://komarev.com/ghpvc/?username=geniustiwari63&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -39,17 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geniustiwari63&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniustiwari63&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
