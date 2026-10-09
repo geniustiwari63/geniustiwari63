@@ -58,3 +58,29 @@
 <p align="center">
   💡 <i>Learning, building, and improving one project at a time.</i>
 </p>
+
+
+<!-- Additional styled section: append without changing existing code -->
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:7C3AED&height=3"
+    width="100%"
+    alt="Purple gradient divider"
+  />
+
+  <h3>💜 &nbsp; Thanks for visiting my profile! &nbsp; 💜</h3>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Learning+new+technologies;Building+full-stack+applications;Improving+one+project+at+a+time"
+    alt="Animated typing text"
+  />
+
+  <br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:141E30&height=3"
+    width="100%"
+    alt="Purple gradient divider"
+  />
+</div>
